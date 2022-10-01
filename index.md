@@ -18,8 +18,8 @@ THe real world languages that I speak in order of first to latest
 3. English
 
 Future interests:
--  [] Computer Architecture
--  [] Quantum Computing
--  [] A bit of Machiene Learning
+-  [ ] Computer Architecture
+-  [ ] Quantum Computing
+-  [ ] A bit of Machiene Learning
 
  
