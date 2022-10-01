@@ -1,3 +1,4 @@
+![Markdown](~/user/satvik07singh/Desktop/UCSD/Markdown-mark.svg.png)
 # Overview
 **the purpose of this assignment is to showcase markdown capabilities**
 **It also covers the _author's areas of interests and general hobbies_**
