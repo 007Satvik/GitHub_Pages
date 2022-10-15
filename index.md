@@ -1,19 +1,20 @@
-![Markdown](Markdown-mark.svg.png)
 # Overview
-**the purpose of this assignment is to showcase markdown capabilities**
-**It also covers the _author's areas of interests and general hobbies_**
 # Satvik Singh
-## Passion
-> Trying to be an engineer rather than a developer
-knowing and coding in languages like`java`, `C/C++`, `python` does not make you an engineer. Many times you find yourself doing repetative tasks that many people have accomplished before. That is what separates a engineer from a developer. 
-Recently my views are based on [this article](https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/). 
-Check [overview](#overview) to revise the purpose of the document
-To review the statement for the entire project go to [ReadMe](README.md)
+## Passion  
+Passionate about learning new developmants and technologies and advanceents in the field of Computer Science.
+
+##Past Experiences
+- Research Intern at ECE lab. 
+Reseached high energy superapacitors with new polymer electrodes at high temperature. Collected and analyzed data. Data is being used for further research
+- CS Tutor (Data Structures and Algorithm). 
+Tutored for a CS course at UCSD and helped students debug their solutions and helped therm understanding their concepts of Data Structures.  
+
+
 the languages that I know are
 - C
 - C++
-- Java
-THe real world languages that I speak in order of first to latest
+- Java  
+The real world languages that I speak in order of first to latest
 1. Hindi
 2. Punjabi
 3. English
