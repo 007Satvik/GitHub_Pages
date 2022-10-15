@@ -3,10 +3,10 @@
 ## Passion  
 Passionate about learning new developmants and technologies and advanceents in the field of Computer Science.
 
-##Past Experiences
-- Research Intern at ECE lab. 
+## Past Experiences
+- Research Intern at ECE lab.   
 Reseached high energy superapacitors with new polymer electrodes at high temperature. Collected and analyzed data. Data is being used for further research
-- CS Tutor (Data Structures and Algorithm). 
+- CS Tutor (Data Structures and Algorithm).    
 Tutored for a CS course at UCSD and helped students debug their solutions and helped therm understanding their concepts of Data Structures.  
 
 
